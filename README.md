@@ -1,4 +1,4 @@
 # Phone-Category-Prediction
-Data analysis
-Perform clustering
-Machine learning model
+Data analysis, 
+Perform clustering, 
+Machine learning model.
